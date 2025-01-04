@@ -8,7 +8,7 @@ Features
 User Interaction: Choose between rock, paper, or scissors by clicking on the respective icons.
 Dynamic Feedback: Real-time updates on game results (win, lose, or tie).
 Score Tracking: Displays and updates the user's and computer's scores.
-Responsive Design: Optimized for different screen sizes.
+Responsive Design: Optimized for different screen sizes.  
 Project Structure
 1. HTML (index.html):
 Contains the structure of the game, including:
